@@ -1,4 +1,4 @@
-﻿# # AI Project Management and Progress Tracker
+﻿#  AI Project Management and Progress Tracker
 
 ![alt text](https://media.licdn.com/dms/image/v2/D4D12AQHAzpZZDBIkfA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1710486640359?e=2147483647&v=beta&t=9iRUJ8yBIVaBKctslR9DBFXaD7R21PBHugsefN3ZcoM)
 
