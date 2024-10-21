@@ -61,7 +61,7 @@ Click on **File** at the top left, then **Report**. A window will open that look
 
 - **Underutilization of Features**: Many users don't explore the full potential of AI features, such as reporting and forecasting. You can familiarize yourself with these features by accessing the **Help** section under the **View** tab.
 
-## ## Advanced Usage
+## Advanced Usage
 
 If you want to automate parts of your project management system using custom code, go to the task, click on the **three dots**, and select **Code**. You can choose Python or another programming language from the top right dropdown and write scripts to further automate task assignments or status updates.
 
