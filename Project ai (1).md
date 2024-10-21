@@ -5,7 +5,7 @@
 > Sometime in the near future, the CEO of a large telecom provider is using a smartphone app to check on her organization’s seven strategic initiatives. Within a few taps, she knows the status of every project and what percentage of expected benefits each one has delivered. Project charters and key performance indicators are available in moments, as are each team member’s morale level and the overall buy-in of critical stakeholders.[1]
 This application is designed to assist in **project management and task tracking** using the power of **AI-based progress detection**. If you are looking for a tool to manage your projects efficiently, this application is perfect for you. It offers a wide range of features such as task management, progress visualization, and the ability to predict project bottlenecks using AI.
 
-## Key Features:sparkles::sparkles:
+## Key Features :sparkles: :sparkles:
 
 - **AI Progress Detection: This feature automatically tracks the progress of your project based on completed tasks, time spent, and user inputs. The AI detects bottlenecks and potential delays, offering suggestions for smoother project execution.
 - **Real-Time Collaboration**: Allows teams to collaborate seamlessly, with updates shared instantly across the team. Team members can also leave comments, attach files, and view task progress in real-time.
