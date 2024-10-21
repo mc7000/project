@@ -13,7 +13,7 @@ This application is designed to assist in **project management and task tracking
  - **Task Prioritization**: An AI-powered prioritization engine helps in organizing tasks by their importance, based on project deadlines and dependencies.
 - **Autosave and save logs**: The auto-save feature will help in saving all the changes and comments in the task automatically and also provides a log of these changes where it records when this change occurred, who did this and what was changed which helps in knowing the purpose of the changes in the task.
 
-## Installation Guide:floppy_disk:  :arrow_down:
+## Installation Guide :floppy_disk:  :arrow_down:
 
 To get started, visit the project’s official website. From the top menu, navigate to **More Information** and select **Download**. You will see three options for Windows, Mac, and Linux. Select your operating system and click **Download**.
 
